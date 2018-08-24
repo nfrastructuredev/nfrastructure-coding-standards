@@ -1,14 +1,16 @@
 {
     "name": "nfrastructure/nfrastructure-coding-standards",
-    "description": "Coding standards for nFraastructure",
+    "description": "Coding standards for nFrastructure",
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Chuck \"MANCHUCK\" Reeves",
             "email": "chuck@manchuck.com"
         }
     ],
+    "version": "1.0.2",
+    "readme": "README.md",
     "minimum-stability": "stable",
     "require": {
         "squizlabs/php_codesniffer": "^2.7"
